@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="_1_how_satsifed_are_yoy_with_our_products_rating_type_1_5">1. How satsifed are yoy with our products? (Rating type 1-5)</string>
+    <string name="next">Next</string>
+    <string name="_3_how_satisfied_are_you_with_the_value_for_money_of_your_purxhase_rating_1_5">3. How satisfied are you with the value for money of your Purxhase? (Rating 1-5)</string>
+    <string name="_1_how_satisfied_are_you_with_our_product_rating_1_5">1. How satisfied are you with Our product ?(Rating 1-5)</string>
+    <string name="_3_howsatisfied_are_you_with_the_value_for_money_of_your_purchase_rating_1_5">3. howsatisfied are you with the value for money of your purchase?(rating 1-5)</string>
+    <string name="_2_how_fair_are_the_prices_comared_to_similar_retailers_rating_1_5">2. How fair are the prices comared to similar retailers?(Rating 1-5)</string>
+    <string name="welcome">Welcome</string>
+    <string name="home_screen">Home screen</string>
+</resources>
